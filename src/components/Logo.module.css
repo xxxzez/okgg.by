@@ -1,0 +1,49 @@
+/* Logo.module.css */
+.logoContainer {
+    /* display: inline-block; */
+    padding: 12px;
+    border-radius: 8px;
+}
+
+.logoText {
+    font-family: 'Google Sans', 'Roboto', Arial, sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    display: flex;
+    align-items: center;
+}
+
+.letterO {
+    color: #4285F4;
+}
+
+/* Google blue */
+.letterK {
+    color: #EA4335;
+}
+
+/* Google red */
+.letterG1 {
+    color: #34A853;
+}
+
+/* Google green */
+.letterG2 {
+    color: #FBBC05;
+}
+
+/* Google yellow */
+.dot {
+    color: #4285F4;
+}
+
+/* Google blue */
+.by {
+    color: #5F6368;
+    /* Google gray */
+    font-size: 0.6em;
+    margin-left: 4px;
+    align-self: flex-end;
+    margin-bottom: 4px;
+}

@@ -1,0 +1,13 @@
+.newsBlockItem {
+    margin: 40px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+}
+
+.title {}
+
+.content {
+    font-size: medium;
+}
